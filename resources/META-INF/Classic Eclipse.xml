@@ -1,7 +1,5 @@
-<!--
-不可使用使用内存配置, 会丢失掉这里的注释信息
--->
-<scheme name="My Classic Eclipse Theme" version="142" parent_scheme="Default">
+<scheme name="Classic Eclipse" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-10-12T23:17:17</property>
     <property name="ide">idea</property>
@@ -9,21 +7,14 @@
     <property name="modified">2022-10-12T23:17:27</property>
     <property name="originalScheme">Classic Eclipse</property>
   </metaInfo>
-
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Courier New" />
-    <!--这里配置的无效, 需要 scheme.option 节点配置 -->
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei UI Light" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="ed" />
     <option name="CARET_ROW_COLOR" value="d8d8d8" />
-    <option name="GUTTER_BACKGROUND" value="f0fff0" />
+    <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="d8d8d8" />
     <option name="LINE_NUMBERS_COLOR" value="d8d8d8" />
     <option name="METHOD_SEPARATORS_COLOR" value="d8d8d8" />
@@ -91,8 +82,7 @@
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGR
-        OUND" value="557f5f" />
+        <option name="FOREGROUND" value="557f5f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -246,11 +236,10 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <!--<option name="FOREGROUND" value="ff5809" />-->
-        <option name="FOREGROUND" value="d34400" />
+        <option name="FOREGROUND" value="ff5809" />
         <option name="FONT_TYPE" value="3" />
-        <!--<option name="EFFECT_COLOR" value="ff5809" />-->
-        <!--<option name="EFFECT_TYPE" value="1" />-->
+        <option name="EFFECT_COLOR" value="ff5809" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -262,8 +251,8 @@
       <value>
         <option name="FOREGROUND" value="c0" />
         <option name="FONT_TYPE" value="1" />
-        <!--<option name="EFFECT_COLOR" value="c0" />-->
-        <!--<option name="EFFECT_TYPE" value="1" />-->
+        <option name="EFFECT_COLOR" value="c0" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -287,8 +276,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <!--<option name="FOREGROUND" value="7f0055" />-->
-        <option name="FOREGROUND" value="8f005a" />
+        <option name="FOREGROUND" value="7f0055" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -307,8 +295,8 @@
       <value>
         <option name="FOREGROUND" value="ff5809" />
         <option name="FONT_TYPE" value="3" />
-        <!--<option name="EFFECT_COLOR" value="ff5809" />-->
-        <!--<option name="EFFECT_TYPE" value="1" />-->
+        <option name="EFFECT_COLOR" value="ff5809" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -375,8 +363,8 @@
       <value>
         <option name="FOREGROUND" value="99" />
         <option name="FONT_TYPE" value="3" />
-        <!--<option name="EFFECT_COLOR" value="99" />-->
-        <!--<option name="EFFECT_TYPE" value="1" />-->
+        <option name="EFFECT_COLOR" value="99" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -442,8 +430,8 @@
       <value>
         <option name="FOREGROUND" value="c0" />
         <option name="FONT_TYPE" value="1" />
-        <!--<option name="EFFECT_COLOR" value="c0" />-->
-        <!--<option name="EFFECT_TYPE" value="1" />-->
+        <option name="EFFECT_COLOR" value="c0" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -506,11 +494,10 @@
         <option name="FOREGROUND" value="333333" />
       </value>
     </option>
-    <!--编辑器文本-->
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="333333" />
-        <option name="BACKGROUND" value="c7edcc" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -545,15 +532,5 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <!--<option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
-      <value>
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>-->
   </attributes>
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <!--<option name="EDITOR_FONT_NAME" value="JetBrains Mono" />-->
-  <option name="EDITOR_LIGATURES" value="true" />
 </scheme>

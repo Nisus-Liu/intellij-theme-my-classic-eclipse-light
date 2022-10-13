@@ -7,7 +7,7 @@
 
   "ui": {
     "*": {
-      "background": "#cbe9cf",
+      "background": "#c7edcc",
       "foreground": "#1e1e1e",
 
       "infoForeground": "#6f7a86",
@@ -342,8 +342,8 @@
     },
 
     "ToolTip": {
-      "background": "#202831",
-      "Actions.background": "#202831"
+      "background__": "#202831",
+      "Actions.background__": "#202831"
     },
 
     "ToolWindow": {
