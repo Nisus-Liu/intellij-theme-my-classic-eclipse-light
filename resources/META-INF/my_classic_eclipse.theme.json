@@ -74,7 +74,7 @@
       "modifiedItemForeground": "#3d8beb",
 
       "ArrowButton": {
-        "iconColor": "#ececee",
+        "iconColor__": "#ececee",
         "disabledIconColor": "#536896",
         "nonEditableBackground": "#c7edcc"
       }
@@ -94,7 +94,7 @@
       "inactiveErrorFocusColor": "#c82600",
       "warningFocusColor": "#f3c811",
       "inactiveWarningFocusColor": "#864800",
-      "iconColor": "#c9cbcf",
+      "iconColor__": "#c9cbcf",
       "hoverIconColor": "#ececee"
     },
 
@@ -404,7 +404,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Grey": "#ececee",
+      "Actions.Grey__": "#ececee",
       "Actions.Red": "#c82600",
       "Actions.Yellow": "#f3c811",
       "Actions.Green": "#40bf77",

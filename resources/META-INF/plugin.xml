@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.nisus.my-classic-eclipse</id>
   <name>My Classic Eclipse Theme</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <vendor email="liuhejun108@163.com" url="https://github.com/Nisus-Liu">Nisus</vendor>
   <idea-version since-build="192.0"/>
 
@@ -13,8 +13,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>feat: tooltip 背景色优化; 背景色改为'豆沙绿'</li>
-      <li>feat: release</li>
+      <li>Icon color</li>
     </ul>
     ]]></change-notes>
 
