@@ -2,17 +2,14 @@
 
 ## 配色
 
-- 基础色  c7edcc 豆沙绿 (https://encycolorpedia.cn/c7edcc)
-- 背景主色  cbe9cf (c7edcc 25%去饱和度)
-- 选中色  85d890
-- 蜜瓜绿  f0fff0
+
 
 ## 打包 & 部署
 
 ```
 1. Build >> Build Project
-2. cd .\out\production\intellij-theme-my-classic-eclipse\
-3. jar -cf intellij-theme-my-classic-eclipse.jar ./
+2. cd .\out\production\intellij-theme-my-classic-eclipse-light\
+3. jar -cf intellij-theme-my-classic-eclipse-light.jar ./
 4. 从磁盘安装刚打包的主题插件
 ```
 

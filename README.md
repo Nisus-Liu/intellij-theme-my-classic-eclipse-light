@@ -1,4 +1,4 @@
-# My Classic Eclipse
+# My Classic Eclipse Light
 
-My Classic Eclipse theme and color scheme for IntelliJ®, Webstorm® and other Jetbrains® IDEs.
+My Classic Eclipse Light theme and color scheme for IntelliJ®, Webstorm® and other Jetbrains® IDEs.
 

@@ -1,17 +1,18 @@
 <!--
 不可使用使用内存配置, 会丢失掉这里的注释信息
 -->
-<scheme name="My Classic Eclipse Theme" version="142" parent_scheme="Default">
+<scheme name="My Classic Eclipse Theme Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-10-12T23:17:17</property>
+    <property name="created">2022-11-08T23:17:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-10-12T23:17:27</property>
+    <property name="modified">2022-11-08T23:17:17</property>
     <property name="originalScheme">Classic Eclipse</property>
   </metaInfo>
 
   <font>
-    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <!--<option name="EDITOR_FONT_NAME" value="Courier New" />-->
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <!--这里配置的无效, 需要 scheme.option 节点配置 -->
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
@@ -510,7 +511,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="333333" />
-        <option name="BACKGROUND" value="f0fff0" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

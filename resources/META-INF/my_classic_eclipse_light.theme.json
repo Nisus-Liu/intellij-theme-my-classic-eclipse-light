@@ -1,0 +1,20 @@
+{
+  "name": "My Classic Eclipse Theme Light",
+  "dark": false,
+  "author": "Nisus Liu <liuhejun108@163.com>",
+
+  "editorScheme": "/META-INF/my_classic_eclipse_light.xml",
+
+  "ui": {
+    "FileColor": {
+      "Yellow": "#fffdd0",
+      "Green": "#36bf36",
+      "Blue": "#00808c",
+      "Violet": "#6640ff",
+      "Orange": "#ffbf00",
+      "Rose": "#ff66cc"
+    }
+  },
+  "icons": {
+  }
+}
