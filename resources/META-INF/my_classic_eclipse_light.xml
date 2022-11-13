@@ -13,6 +13,7 @@
   <font>
     <!--<option name="EDITOR_FONT_NAME" value="Courier New" />-->
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <!--<option name="EDITOR_FONT_NAME" value="Fira Code" />-->
     <!--这里配置的无效, 需要 scheme.option 节点配置 -->
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
@@ -92,8 +93,7 @@
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGR
-        OUND" value="557f5f" />
+        <option name="FOREGROUND" value="557f5f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -399,9 +399,17 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d8d8d8" />
-        <option name="EFFECT_COLOR" value="d8d8d8" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="c02a2a" />
+        <!--<option name="BACKGROUND" value="efefef" />-->
+        <option name="EFFECT_COLOR" value="ab2525" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="aeaeae" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">

@@ -7,12 +7,12 @@
 
   "ui": {
     "FileColor": {
-      "Yellow": "#fffdd0",
-      "Green": "#36bf36",
-      "Blue": "#00808c",
-      "Violet": "#6640ff",
-      "Orange": "#ffbf00",
-      "Rose": "#ff66cc"
+      "Yellow": "#ffffe4",
+      "Green": "#effae7",
+      "Blue": "#c9f6fa",
+      "Violet": "#c7bcf5",
+      "Orange": "#f5e7bf",
+      "Rose": "#fcc5e9"
     }
   },
   "icons": {
