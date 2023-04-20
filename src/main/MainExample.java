@@ -34,9 +34,9 @@ public class MainExample {
 
     }
 
-    @Deprecated(forRemoval = true)
-    public static void deprecatedForRemoval() {
-
-    }
+    // @Deprecated(forRemoval = true)
+    // public static void deprecatedForRemoval() {
+    //
+    // }
 
 }
