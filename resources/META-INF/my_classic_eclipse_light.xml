@@ -519,7 +519,9 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="333333" />
-        <option name="BACKGROUND" value="ffffff" />
+        <!--<option name="BACKGROUND" value="ffffff" />-->
+        <!--杏仁黄-->
+        <option name="BACKGROUND" value="FAF9DE" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -559,6 +561,13 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>-->
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />

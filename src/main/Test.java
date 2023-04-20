@@ -20,5 +20,9 @@ public class Test {
 
         // ligatures 效果
         System.out.println("a == b ? c >= d ? === => ==> ===> --------------> O(∩_∩)O~");
+
+        Integer unusedVar = 123;
+        Integer usedVar = 456;
+        System.out.println(usedVar);
     }
 }
