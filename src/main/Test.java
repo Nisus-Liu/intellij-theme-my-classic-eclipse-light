@@ -15,8 +15,10 @@ public class Test {
         System.out.println(MainExample.sfs);
 
         System.out.println(MainExample.deprecatedProp);
+        // Deprecated method
         MainExample.deprecateMethod();
-        MainExample.deprecatedForRemoval();
+        // Deprecated and for removal
+        // MainExample.deprecatedForRemoval();
 
         // ligatures 效果
         System.out.println("a == b ? c >= d ? === => ==> ===> --------------> O(∩_∩)O~");
