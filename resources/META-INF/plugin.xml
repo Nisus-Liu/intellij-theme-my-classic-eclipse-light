@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.nisus.my-classic-eclipse-light</id>
   <name>My Classic Eclipse Theme Light</name>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <vendor email="liuhejun108@163.com" url="https://github.com/Nisus-Liu">Nisus</vendor>
   <idea-version since-build="192.0"/>
 
@@ -13,7 +13,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>Change color of local variable and number, avoid confusion with warn colors</li>
+      <li>Change color of NOT_USED_ELEMENT_ATTRIBUTES, to make it a soft color</li>
     </ul>
     ]]></change-notes>
 
