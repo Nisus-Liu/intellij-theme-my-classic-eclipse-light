@@ -24,7 +24,7 @@
 
   <colors>
     <option name="CARET_COLOR" value="ed" />
-    <option name="CARET_ROW_COLOR" value="d8d8d8" />
+    <option name="CARET_ROW_COLOR" value="eeeeee" />
     <option name="GUTTER_BACKGROUND" value="f8fffc" />
     <option name="INDENT_GUIDE" value="d8d8d8" />
     <option name="LINE_NUMBERS_COLOR" value="d8d8d8" />
