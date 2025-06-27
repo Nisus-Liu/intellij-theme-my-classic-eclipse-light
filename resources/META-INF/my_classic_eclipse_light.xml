@@ -25,9 +25,10 @@
   <colors>
     <option name="CARET_COLOR" value="ed" />
     <option name="CARET_ROW_COLOR" value="eeeeee" />
+    <option name="CARET_ROW_NUMBER_COLOR" value="FF2977" />
     <option name="GUTTER_BACKGROUND" value="f8fffc" />
     <option name="INDENT_GUIDE" value="d8d8d8" />
-    <option name="LINE_NUMBERS_COLOR" value="d8d8d8" />
+    <option name="LINE_NUMBERS_COLOR" value="7a5e68" />
     <option name="METHOD_SEPARATORS_COLOR" value="d8d8d8" />
     <option name="SELECTED_INDENT_GUIDE" value="333333" />
     <option name="SELECTED_TEARLINE_COLOR" value="d8d8d8" />

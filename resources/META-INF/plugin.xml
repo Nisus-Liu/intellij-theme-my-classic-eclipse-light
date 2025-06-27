@@ -14,6 +14,7 @@
   <change-notes><![CDATA[
     <ul>
       <li>Change color of CARET_ROW_COLOR</li>
+      <li>Change color of CARET_ROW_NUMBER_COLOR</li>
     </ul>
     ]]></change-notes>
 
