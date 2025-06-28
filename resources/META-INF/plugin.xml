@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.nisus.my-classic-eclipse-light</id>
   <name>My Classic Eclipse Theme Light</name>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <vendor email="liuhejun108@163.com" url="https://github.com/Nisus-Liu">Nisus</vendor>
   <idea-version since-build="192.0"/>
 
@@ -13,8 +13,9 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>Change color of CARET_ROW_COLOR</li>
-      <li>Change color of CARET_ROW_NUMBER_COLOR</li>
+      <li>Add color of LINE_NUMBERS_ON_CARET_ROW.</li>
+      <li>Change color of LINE_NUMBERS_COLOR</li>
+      <li>So, the cursor line is more visible</li>
     </ul>
     ]]></change-notes>
 
